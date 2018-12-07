@@ -1,0 +1,1 @@
+#!/usr/local/bin/python  # -*-coding:utf-8-*-import loggingimport logging.config#加载日志配置文件logging.config.fileConfig("utils/logger.conf")def getLogger(name=None):    return logging.getLogger(name)
