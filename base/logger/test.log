@@ -1,0 +1,28 @@
+2018-08-14 16:52:21,773 INFO    : this is information
+2018-08-14 16:52:21,773 WARNING : this is warning message
+2018-08-14 16:52:21,773 ERROR   : this is error message
+2018-08-14 16:52:21,773 CRITICAL: this is fatal message, it is same as logger.critical
+2018-08-14 16:52:21,773 CRITICAL: this is critical message
+2018-08-14 16:55:28,177 INFO    : this is information
+2018-08-14 16:55:28,177 WARNING : this is warning message
+2018-08-14 16:55:28,177 ERROR   : this is error message
+2018-08-14 16:55:28,177 CRITICAL: this is fatal message, it is same as logger.critical
+2018-08-14 16:55:28,177 CRITICAL: this is critical message
+2018-08-14 16:55:28,177 ERROR   : Booking service is down!
+2018-08-14 16:55:28,177 ERROR   : Booking service is down!
+2018-08-14 16:55:28,177 ERROR   : Booking service is down!
+2018-08-14 16:55:28,177 ERROR   : Booking service is down
+2018-08-14 16:56:55,641 INFO    : this is information
+2018-08-14 16:56:55,641 WARNING : this is warning message
+2018-08-14 16:56:55,641 ERROR   : this is error message
+2018-08-14 16:56:55,641 CRITICAL: this is fatal message, it is same as logger.critical
+2018-08-14 16:56:55,641 CRITICAL: this is critical message
+2018-08-14 16:56:55,641 ERROR   : Booking service is down!
+2018-08-14 16:56:55,641 ERROR   : Booking service is down!
+2018-08-14 16:56:55,641 ERROR   : Booking service is down!
+2018-08-14 16:56:55,641 ERROR   : Booking service is down
+2018-08-14 16:56:55,641 ERROR   : this is an exception message
+Traceback (most recent call last):
+  File "D:/Dev/Python/Code/learn-python/logger/logger-demo.py", line 48, in <module>
+    1 / 0
+ZeroDivisionError: integer division or modulo by zero
