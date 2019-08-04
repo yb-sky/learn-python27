@@ -14,7 +14,7 @@ class ZhxDataDown:
     # conn = None 
     # cursor = None 
 
-    def __init__(self,host='localhost',name='zhx',pwd='ZHXpass0o0_',dbName='accountdb_cloud_20182',port=13306):
+    def __init__(self,host='localhost',name='',pwd='',dbName='accountdb_cloud_',port=13306):
         self.host = host
         self.name = name
         self.pwd = pwd
